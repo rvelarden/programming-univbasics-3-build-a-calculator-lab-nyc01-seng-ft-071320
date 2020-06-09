@@ -30,7 +30,9 @@ number
 end
 
 def square_root(num)
+number = num * num 
 
+number
 
 number
 end
