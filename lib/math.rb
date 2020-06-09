@@ -4,8 +4,6 @@ num2 = 5
 number = num1 + num2
 
 puts number
-
-
 end
 
 def subtraction(num1, num2)
