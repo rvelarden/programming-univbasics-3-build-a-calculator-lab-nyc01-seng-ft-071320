@@ -1,7 +1,7 @@
 def addition(num1, num2)
-number = 
+number = 4 + 5
 
-puts sum 
+puts number
 
 
 end
