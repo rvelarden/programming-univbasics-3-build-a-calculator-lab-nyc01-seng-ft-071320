@@ -34,5 +34,4 @@ number = num * num
 
 number
 
-number
 end
