@@ -1,4 +1,4 @@
-def addition(num1, num2)
+def addition(5, 4)
 addition = 9
 puts sum 
 
