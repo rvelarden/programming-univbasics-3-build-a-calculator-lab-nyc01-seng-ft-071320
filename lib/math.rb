@@ -1,5 +1,5 @@
 def addition(num1, num2)
-sum = 9
+addition = 9
 puts sum 
 
 
