@@ -30,7 +30,7 @@ number
 end
 
 def square_root(num)
-number = num  num 
+number = Math.sqrt(value)  
 
 number
 
