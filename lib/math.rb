@@ -1,6 +1,5 @@
 def addition(num1, num2)
-num1 = 5
-num2 = 4
+recurring_expression_value = 3 * (10 - 4)
 
 end
 
